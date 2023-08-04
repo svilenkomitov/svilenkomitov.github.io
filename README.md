@@ -16,6 +16,9 @@ $ brew install hugo
 $ hugo new site about
 ```
 
+* setup github workflow - https://gohugo.io/hosting-and-deployment/hosting-on-github/
+* setup custom domain - https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
 ### run
 
 * run the app
